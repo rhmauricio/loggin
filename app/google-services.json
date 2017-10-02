@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640863801703",
+    "project_id": "default-demo-app-53181"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640863801703:android:1c92e4a208a438dd",
+        "android_client_info": {
+          "package_name": "rhmauricio.loggin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640863801703-5qbgrsefa919liqf758qhfufk7qg3gn6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "640863801703-8fvllqs3gl3ddlo17jm7p7gc950fa40n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rhmauricio.loggin",
+            "certificate_hash": "169536e3065911b193d23908a41db86c0908f75b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARj6o0kK0t1KP5Z_Quo8AHEsi_84XeXtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

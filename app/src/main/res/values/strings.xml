@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Process Tracker</string>
+    <string name="correo">correo</string>
+    <string name="contraseña">contraseña</string>
+    <string name="iniciar">iniciar</string>
+    <string name="registrar">registrar</string>
+    <string name="repcontraseña">Repetir contraseña</string>
+    <string name="Registrarse">Registarse</string>
+    <string name="miperfil">Mi perfil</string>
+    <string name="cerrarses">Cerrar sesión</string>
+    <string name="m2princial">Principal</string>
+    <string name="m2cerrarSesion">Cerrar Sesion</string>
+    <string name="facebook_app_id">116615105686437</string>
+    <string name="fb_login_protocol_scheme">fb116615105686437</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_frame">MainActivity_frame</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>

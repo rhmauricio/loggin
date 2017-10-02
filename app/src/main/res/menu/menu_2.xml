@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/m2principal"
+        android:title="@string/m2princial"></item>
+    <item
+        android:id="@+id/m2cerrarSesion"
+        android:title="@string/m2cerrarSesion"></item>
+</menu>
