@@ -90,6 +90,7 @@ public class perfil extends AppCompatActivity {
                 LoginManager.getInstance().logOut();
                 intent=new Intent(perfil.this, loggin.class );
                 prefs.edit().putInt(Tags.TAG_OPTLOG,0).apply();
+                prefs.edit().clear().apply();
                 startActivity(intent);
                 finish();
                 break;

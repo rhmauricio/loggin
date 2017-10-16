@@ -15,7 +15,9 @@
             android:name="com.facebook.sdk.ApplicationId"
             android:value="@string/facebook_app_id" />
 
-        <activity android:name=".MainActivity_loggin" />
+        <activity
+            android:name=".MainActivity_loggin"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
         <activity
             android:name=".loggin"
             android:theme="@style/AppTheme.NoActionBar" />
@@ -24,23 +26,26 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".splash"
-            android:theme="@style/AppTheme.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".perfil" />
+        <activity android:name=".MainActivity_fragmento">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".perfil" />
-        <activity android:name=".MainActivity_fragmento">
-
-        </activity>
         <activity
             android:name=".MainActivity_frame"
             android:label="@string/title_activity_main_frame"
-            android:theme="@style/AppTheme.NoActionBar">
-
-        </activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DrawerActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Drawer__Activity"
+            android:label="@string/title_activity_drawer__"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
